@@ -17,6 +17,11 @@ resource "google_container_cluster" "gke-1" {
       cidr_block   = "10.0.0.0/24"
       display_name = "Management Subnet"
     }
+
+     cidr_blocks {
+      cidr_block   = "10.0.1.0/24"
+      display_name = "Restricted Subnet"
+    }
   }
 }
 resource "google_container_node_pool" "gke-1_node_pool" {
