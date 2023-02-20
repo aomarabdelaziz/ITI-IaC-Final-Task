@@ -1,8 +1,10 @@
-# IaC GKE Using (Terraform And GCP)
-
+# Deploy backend application on K8S cluster using CI/CD jenkins pipline
 ## Project Requirement
 
 ![Alternative Image](./Pics/overview.png)
+
+![Alternative Image](./Pics/overview-2.png)
+
 
 ## Tools:
 
