@@ -79,7 +79,7 @@ to authenticate your Docker client and allow it to push images to your private G
 
 ### Terraform Apply
 
-![Alternative Image](./pics/terraform-apply.png)
+![Alternative Image](./pics/overview.png)
 
 ### Access the Application
 
