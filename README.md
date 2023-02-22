@@ -101,11 +101,11 @@ to authenticate your Docker client and allow it to push images to your private G
 
 ### Application LoadBalancer
 
-![Alternative Image](./Pics/applicaion-loadbalancer.png)
+![Alternative Image](./Pics/application-loadbalancer.png)
 
 ### Jenkins LoadBalancer
 
-![Alternative Image](./Pics/applicaion-loadbalancer.png)
+![Alternative Image](./Pics/jenkins-loadbalancer.png)
 
 ### Deployments
 
