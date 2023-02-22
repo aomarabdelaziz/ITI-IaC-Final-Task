@@ -78,6 +78,38 @@ to authenticate your Docker client and allow it to push images to your private G
 
 
 ## Pictures:
+
+### Cluster - VM Instances
+
+![Alternative Image](./Pics/vm.png)
+
+### VPC
+
+![Alternative Image](./Pics/vpc-subnets.png)
+
+### Management Subnet
+
+![Alternative Image](./Pics/mang-subnet.png)
+
+### Restricted Subnet
+
+![Alternative Image](./Pics/restricted-subnet.png)
+
+### NAT
+
+![Alternative Image](./Pics/nat.png)
+
+### Application LoadBalancer
+
+![Alternative Image](./Pics/applicaion-loadbalancer.png)
+
+### Jenkins LoadBalancer
+
+![Alternative Image](./Pics/applicaion-loadbalancer.png)
+
+### Deployments
+
+![Alternative Image](./Pics/deployments.png)
 ### Access the Application
 
 ![Alternative Image](./Pics/app-running.png)
